@@ -1,0 +1,98 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# pip wheel cache
+pip-wheel-metadata/
+*.whl
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# MyPy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables / secrets
+.env
+.env.*
+secrets.json
+secret_keys.json
+
+# Logs and local runtime files
+*.log
+instance/
+*.pid
+*.seed
+*.pid.lock
+
+# Static/media (if generated)
+staticfiles/
+media/
+
+# SQLite DB (if you don't want to commit local DB)
+*.sqlite3
+*.db
+
+# VS Code test output / coverage
+.vscode-test/
+
+# Python packaging
+__pypackages__/
+
+# JetBrains
+.idea/
+*.iml
+
+# Optional: ignore local DB/data files if you don't want them in git
+# Uncomment if you want to exclude your db data.json
+# db/data.json
+
+# End of file
+```# filepath:
